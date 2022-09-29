@@ -25,7 +25,7 @@ from matplotlib.offsetbox import AnchoredText
 INTERCHROM_YAXIS = 5000
 
 COLORS = {
-    "Deletion/Normal": "black",
+    "Deletion/Normal": "red",
     "Deletion": "red",
     "Duplication": "black",
     "Inversion": "blue",
