@@ -26,8 +26,8 @@ INTERCHROM_YAXIS = 5000
 
 COLORS = {
     "Deletion/Normal": "black",
-    "Deletion": "black",
-    "Duplication": "red",
+    "Deletion": "red",
+    "Duplication": "black",
     "Inversion": "blue",
     "InterChrmInversion": "blue",
     "InterChrm": "black",
