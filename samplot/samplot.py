@@ -2950,7 +2950,7 @@ def plot_legend(fig, legend_fontsize, marker_size):
                 [0, 1],
                 markerfacecolor="None",
                 markeredgecolor="grey",
-                color="grey",
+                color="red",
                 marker="s",
                 markersize=marker_size,
                 linestyle="-",
