@@ -25,8 +25,8 @@ from matplotlib.offsetbox import AnchoredText
 INTERCHROM_YAXIS = 5000
 
 COLORS = {
-    "Deletion/Normal": "red",
-    "Deletion": "red",
+    "Deletion/Normal": "darkred",
+    "Deletion": "darkred",
     "Duplication": "black",
     "Inversion": "blue",
     "InterChrmInversion": "blue",
@@ -2950,7 +2950,7 @@ def plot_legend(fig, legend_fontsize, marker_size):
                 [0, 1],
                 markerfacecolor="None",
                 markeredgecolor="grey",
-                color="red",
+                color="black",
                 marker="s",
                 markersize=marker_size,
                 linestyle="-",
